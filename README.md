@@ -1,6 +1,10 @@
 # Puzzle-Solver
 
 This repo contains both an interactive pentomino puzzle and a built-in solver. The solver uses backtracking to explore all possible board configurations until it encounters a solution. You'll have to download Pygame if you want to play with the interactive solver, but otherwise vanilla Python is all you need.
+group members:-
+Animesh kumar
+Abdul qadir
+Himanshu kumar
 </br>
 </br>
 
