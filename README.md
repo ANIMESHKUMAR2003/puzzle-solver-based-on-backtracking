@@ -27,6 +27,7 @@ Implement recursive backtracking once and it should be easy tore-use the pattern
 Project Prerequisite
 This project requires good python knowledge and a pygame library that we will use for this project. For this project, we use an algorithm to reverse the sudoku solution which is a backtracking algorithm.
 
+the solutions.gif file shows the working of code and solution using backtracking
 </br>
 </br>
 
