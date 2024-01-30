@@ -1,4 +1,5 @@
-# Puzzle-Solver
+# Puzzle-Solver for ADSA project
+
 
 This repo contains both an interactive pentomino puzzle and a built-in solver. The solver uses backtracking to explore all possible board configurations until it encounters a solution. You'll have to download Pygame if you want to play with the interactive solver, but otherwise vanilla Python is all you need.
 group members:-
@@ -8,6 +9,21 @@ Animesh kumar
 Abdul qadir
 
 Himanshu kumar
+
+Gui.py is the main running file other files are just supporting files for the code
+
+Some popular applications of this algorithm are finding solutions for Sudoku, brute-forcing passwords, and path-finding in mazes.
+
+Meanwhile, recursion is defined as:
+
+the process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function.
+
+Hence, we will be implementing a backtracking algorithm using recursion to search for a solution that will lead us to the desired state.
+
+I find that the most tedious part of implementing this algorithm is representing the puzzle and the operations in code. However, once that is done, writing the general algorithm that does the actual solving is not that difficult at all.
+
+Implement recursive backtracking once and it should be easy tore-use the pattern to solve similar puzzles.
+
 </br>
 </br>
 
